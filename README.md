@@ -31,7 +31,7 @@ All datasets were joined and modeled inside Tableau to support analysis at multi
 ## Data Modeling & Preparation
 - Established relationships between Orders, Customers, Product, and Location datasets
 - Standardized date fields for time-based analysis
-- Ensured consistency of keys across datasets
+- Ensured consistency of dynamic, Numericals and location category of data
 - Handled nulls and missing values within calculations where applicable
 
 ---
@@ -89,18 +89,3 @@ These calculations drive KPI tiles, trend lines, and conditional formatting with
 2. Open it in Tableau Desktop
 3. Use the filter panel to explore performance by year, product, or location
 4. Navigate between Sales and Customer dashboards for deeper insights
-
----
-
-## Future Enhancements
-- Customer segmentation and lifetime value analysis
-- Parameter-driven KPI comparison
-- Forecasting using Tableau analytics features
-- Performance optimization for larger datasets
-
----
-
-## Tools Used
-- Tableau Desktop
-- Calculated Fields
-- Dashboard Actions & Filters
