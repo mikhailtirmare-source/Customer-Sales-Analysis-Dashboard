@@ -83,6 +83,9 @@ These calculations drive KPI tiles, trend lines, and conditional formatting with
 - Peak sales months do not always align with peak profit months
 
 ---
+---
+<img width="1054" height="603" alt="Dashboard " src="https://github.com/user-attachments/assets/1b30c339-6e28-4d10-9c4c-f390c8b256a3" />
+---
 
 ## How to Use the Dashboard
 1. Download the `.twbx` file from this repository
