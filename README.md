@@ -20,9 +20,9 @@ The goal of this dashboard is to:
 ## Datasets Used
 The project is built using four datasets:
 1. **Orders** – Transaction-level sales, profit, quantity, and order dates - <a href="https://github.com/mikhailtirmare-source/Customer-Sales-Analysis-Dashboard/blob/main/Orders.csv">Dataset,</a>
-2. **Customers** – Customer-level attributes and identifiers  https://github.com/mikhailtirmare-source/Customer-Sales-Analysis-Dashboard/blob/main/Customers.csv
-3. **Product Category** – Category and sub-category hierarchy  https://github.com/mikhailtirmare-source/Customer-Sales-Analysis-Dashboard/blob/main/Products.csv
-4. **Location** – Country/Region, State, and City details  https://github.com/mikhailtirmare-source/Customer-Sales-Analysis-Dashboard/blob/main/Location.csv
+2. **Customers** – Customer-level attributes and identifiers  - <a href="https://github.com/mikhailtirmare-source/Customer-Sales-Analysis-Dashboard/blob/main/Customers.csv">Dataset,</a>
+3. **Product Category** – Category and sub-category hierarchy  - <a href="https://github.com/mikhailtirmare-source/Customer-Sales-Analysis-Dashboard/blob/main/Products.csv">Dataset,</a>
+4. **Location** – Country/Region, State, and City details  - <a href="https://github.com/mikhailtirmare-source/Customer-Sales-Analysis-Dashboard/blob/main/Location.csv">Dataset,</a>
 
 All datasets were joined and modeled inside Tableau to support analysis at multiple granularities.
 
